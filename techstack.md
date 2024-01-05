@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KevinASaputra/react-native-redux-toolkit](https://github.com/KevinASaputra/react-native-redux-toolkit)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|12/08/23 <br/>Report generated|
+|9<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
